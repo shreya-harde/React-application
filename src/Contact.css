@@ -1,0 +1,11 @@
+.contact-container{
+    background-color: rgb(131, 168, 168);
+    min-height: 100vh;
+    margin: 0;
+}
+.heading{
+    color: rgb(194, 42, 143);
+    margin: 0;
+     text-align: center;
+     padding-top: 20px;
+}

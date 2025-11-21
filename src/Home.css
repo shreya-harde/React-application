@@ -1,0 +1,11 @@
+.home-container{
+    background-color: rgb(247, 247, 124);
+     min-height: 100vh;
+    margin: 0;
+}
+.heading{
+    color: rebeccapurple;
+    margin: 0;
+     text-align: center;
+     padding-top: 20px;
+}

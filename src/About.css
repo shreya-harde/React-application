@@ -1,0 +1,11 @@
+.about-container{
+    background-color: rgb(221, 164, 202);
+    min-height: 100vh;
+    margin: 0;
+}
+.heading{
+    color: rgb(63, 7, 234);
+     margin: 0;
+     text-align: center;
+     padding-top: 20px;
+}
