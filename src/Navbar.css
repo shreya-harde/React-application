@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+  background-color: #333;
+}
+
+.menu {
+  color: white;
+  text-decoration: none;
+}
+
+.menu-active {
+  font-weight: bold;
+  text-decoration: underline;
+}

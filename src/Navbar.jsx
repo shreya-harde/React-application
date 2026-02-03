@@ -4,7 +4,6 @@ import "./Navbar.css";
 function Navbar({ activeMenu }) {
   return (
     <div className="navbar">
-
       <Link
         to="/"
         className={`menu ${activeMenu === "/" ? "menu-active" : ""}`}
@@ -25,10 +24,10 @@ function Navbar({ activeMenu }) {
       >
         Contact
       </Link>
-
     </div>
   );
 }
 
 export default Navbar;
+
 
