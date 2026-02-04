@@ -1,16 +1,16 @@
 .navbar {
-  display: flex;
-  gap: 20px;
-  padding: 15px;
-  background-color: #333;
+  background-color: black;
+  padding: 8px 20px;
 }
 
-.menu {
+.navbar a {
   color: white;
   text-decoration: none;
+  margin-right: 20px;
+  font-size: 16px;
 }
 
-.menu-active {
-  font-weight: bold;
+.navbar a:hover {
   text-decoration: underline;
 }
+
